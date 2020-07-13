@@ -1,0 +1,48 @@
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\bin\Debug\PermissionsCheck.exe
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\bin\Debug\PermissionsCheck.pdb
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\bin\Debug\PermissionsCheck.exe.CodeAnalysisLog.xml
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\bin\Debug\PermissionsCheck.exe.lastcodeanalysissucceeded
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\AttribChanger.FileAttributeChanger.resources
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\PermissionsCheck.Properties.Resources.resources
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\AttribChanger.csproj.GenerateResource.Cache
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\PermissionsCheck.exe
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\PermissionsCheck.pdb
+C:\Users\Jason_k\Documents\Visual Studio 2015\Projects\AttribChanger\AttribChanger\obj\Debug\AttribChanger.csprojResolveAssemblyReference.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\bin\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\bin\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\bin\Debug\PermissionsCheck.exe.CodeAnalysisLog.xml
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\bin\Debug\PermissionsCheck.exe.lastcodeanalysissucceeded
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\AttribChanger.FileAttributeChanger.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\PermissionsCheck.Properties.Resources.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\AttribChanger.csproj.GenerateResource.Cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\AttribChanger.csprojResolveAssemblyReference.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\bin\Debug\PermissionsCheck.exe.config
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\Verify - update Permissions\AttribChanger\obj\Debug\PermissionsCheck.SetOwner.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\bin\Debug\PermissionsCheck.exe.config
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\bin\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\bin\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\bin\Debug\PermissionsCheck.exe.CodeAnalysisLog.xml
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\bin\Debug\PermissionsCheck.exe.lastcodeanalysissucceeded
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\AttribChanger.csprojResolveAssemblyReference.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\AttribChanger.FileAttributeChanger.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\PermissionsCheck.Properties.Resources.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\PermissionsCheck.SetOwner.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck\AttribChanger\obj\Debug\AttribChanger.csproj.GenerateResource.Cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\PermissionsCheck.exe.config
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\PermissionsCheck.exe.CodeAnalysisLog.xml
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\PermissionsCheck.exe.lastcodeanalysissucceeded
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\AttribChanger.csprojResolveAssemblyReference.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\AttribChanger.FileAttributeChanger.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\PermissionsCheck.Properties.Resources.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\PermissionsCheck.SetOwner.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\AttribChanger.csproj.GenerateResource.Cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\PermissionsCheck.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\PermissionsCheck.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\bin\Debug\Resources\GetACL.ps1
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\PermissionsCheck 2\AttribChanger\obj\Debug\AttribChanger.csproj.CoreCompileInputs.cache
